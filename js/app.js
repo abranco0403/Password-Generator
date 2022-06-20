@@ -6,7 +6,6 @@ const numbersEl = document.getElementById('numbers');
 const symbolsEl = document.getElementById('symbols');
 const  generateEl = document.getElementById('generate');
 const  copyEl = document.getElementById('copy');
-console.log(resultEl, lengthEl, generateEl);
 
 const randomFunction = {
     lower: getRandomLowerLetters,
